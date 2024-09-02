@@ -5,7 +5,7 @@ BOT_TOKEN = "7221307746:AAH9d261LHKQ95WqksDiK9I78XJXXxByL-s"
 
 # Redis configuration
 REDIS_CONFIG = {
-    "HOST": "terabot-ef917a35d35f.herokuapp.com",
+    "HOST": "redis-12345.c16.us-east-1-2 .ec2.cloud.redislabs.com",
     "PORT": 17713,
     "USERNAME": "default",
     "PASSWORD": "password",
